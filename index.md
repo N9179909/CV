@@ -6,7 +6,7 @@
 ## Education
 
 | ------------------------------------- | ------------------------------------------- | ----- |
-| Bachelor of Engineering (Honours) (Medical) | Queensland University of Technology          | 2014 -2017 |
+| Bachelor of Engineering (Honours) (Medical) | Queensland University of Technology          | 2014 - 2017 |
 | Doctor of Philosophy | Queensland University of Technology | 2018 - present |
 
 ## Employment
