@@ -12,17 +12,17 @@
 ## Employment
 
 | ------------------------------------- | ------------------------------------------- | ----- |
-|Griffith University      |eResearch Analyst         |2016-Present|
-|QCIF Secondment|eResearch Analyst |2018-Present|
-|Griffith University|Software Engineer |2010-2016|
-|Griffith University|Bioinformatician |2008-2010|
+|QUT Biomechanics & Spine Research Group   |Research Assistant         |2016-2017|
+|QUT Biomechanics & Spine Research Group   |Research Engineer          |2020-Present|
 
 ## Skills
 
+- Advanced skills in:
+  - Matlab
+  - Ansys
+
 - Intermediate skills in:
   - Python
-  - R
-  - Linux/Bash
   - SQL
 - Communication across different audiences
 - Writing a Github Page Resume then teaching it
