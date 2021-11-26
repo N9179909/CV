@@ -20,12 +20,16 @@
 - Advanced skills in:
   - Matlab
   - Ansys
+  - Medical imaging derived 3D Modelling
+  - Artec 3D scanning
 
 - Intermediate skills in:
   - Python
-  - SQL
-- Communication across different audiences
-- Writing a Github Page Resume then teaching it
+  - Blender
+  - CAD
+
+- Finding automated solutions to novel research problems
+
 
 ## Publications
 
